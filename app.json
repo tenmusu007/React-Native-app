@@ -29,6 +29,12 @@
     },
     "web": {
       "favicon": "./assets/images/favicon.png"
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "67143608-2580-4145-9f19-c5fc2629ec32"
+      }
+    },
+    "owner": "tenmusu"
   }
 }
